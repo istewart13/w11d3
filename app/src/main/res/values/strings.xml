@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Eightball</string>
+    <string name="question">Ask a question</string>
+    <string name="string">Normal Answer</string>
+    <string name="api">Father Ted Answer</string>
+    <string name="pirate">Pirate Answer</string>
+    <string name="answer">Computer says...</string>
+</resources>
